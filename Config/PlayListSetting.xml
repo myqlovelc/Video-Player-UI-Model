@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PlayListSetting xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <PlayList>
+    <PlayListItem>
+      <VideoPath>C:\AsviPlayer\Videos\cuc_ieschool.mpg</VideoPath>
+      <ThumbnailFile>1.jpg</ThumbnailFile>
+      <VideoType>0</VideoType>
+      <PlayMode>2</PlayMode>
+    </PlayListItem>
+    <PlayListItem>
+      <VideoPath>C:\AsviPlayer\Videos\noa-60fps-neal-graffiti-360-music-video-4k-AVI.avi</VideoPath>
+      <ThumbnailFile>1.jpg</ThumbnailFile>
+      <VideoType>0</VideoType>
+      <PlayMode>2</PlayMode>
+    </PlayListItem>
+    <PlayListItem>
+      <VideoPath>C:\AsviPlayer\Videos\攻壳机动队新剧场版VR宣传视频.mp4</VideoPath>
+      <ThumbnailFile>1.jpg</ThumbnailFile>
+      <VideoType>0</VideoType>
+      <PlayMode>2</PlayMode>
+    </PlayListItem>
+    <PlayListItem>
+      <VideoPath>C:\AsviPlayer\Videos\The Displaced.mp4</VideoPath>
+      <ThumbnailFile>1.jpg</ThumbnailFile>
+      <VideoType>0</VideoType>
+      <PlayMode>2</PlayMode>
+    </PlayListItem>
+  </PlayList>
+</PlayListSetting>
